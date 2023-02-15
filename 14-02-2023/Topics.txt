@@ -1,0 +1,25 @@
+Today's Topics
+-> Browser js vs Node js
+-> Data types
+-> window and Document Object
+-> Objects
+-> copy by value and reference
+-> Debugger and inspect
+
+Browser js
+
+-> Javasacript is a scripting language which will be used to write scripts on the website.
+-> It can only run in browsers
+-> And it is basically client side
+-> Javasacript is capable to add HTML with Document.
+
+Node js
+
+-> Node Js is a Javasacript runtime environment.
+-> we can run Javasacript outside  browser.
+-> it is server side.
+-> Node js does not have capable to add HTML tags.
+
+Symbol Datatype:
+
+It refered to as symbol value and immutable value that is unique
