@@ -1,0 +1,6 @@
+-> this and usage
+-> Classes in js
+-> Constructor
+-> getter and setter
+-> Inheritence
+-> basics of prototype

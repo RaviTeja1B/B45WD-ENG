@@ -1,0 +1,14 @@
+-> var, let and const
+-> block scoping
+-> spread and rest operators
+-> array & object destructuring
+-> Object prop shorthand
+-> Template literals
+-> Arrow Functions
+
+console.log(a)
+var a = 10
+
+var a = 20
+
+

@@ -1,0 +1,12 @@
+-> Functions.
+-> Type of Functions.
+-> return keywords.
+
+
+Functions: A function is similar to procedure, to perform a task(calculating values, checking truthfy)
+
+types of Functions
+
+named function
+anonymous function
+IIFE Immediate invoke function execution
