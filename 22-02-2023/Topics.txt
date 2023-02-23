@@ -1,0 +1,18 @@
+-> HTML
+-> Basic Tags
+-> HTML and HTML5
+-> div vs span(inline and block elements)
+
+
+
+HTML - Hyper Text Markup Language
+
+
+-> Seamntic elements like header, footer, article, section aside
+-> audio and video
+-> Vectors
+-> iframes
+-> placeholder
+-> Nav
+-> email
+-> storage
