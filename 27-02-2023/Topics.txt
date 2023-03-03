@@ -1,0 +1,25 @@
+-> Pseudo-classes
+-> box model
+-> Grid
+-> flex
+-> position Property
+-> gradient
+
+
+Pseudo Classes -> link, hover, active, visited
+
+box model : 
+padding
+margin
+border
+content
+
+position : 
+
+static
+fixed
+sticky
+absolute
+relative
+
+-> Create a box with height 500px and width 500px and add heading h1 and p button, 10px top right

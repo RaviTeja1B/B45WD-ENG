@@ -1,0 +1,5 @@
+-> Window function
+-> SetTimeout and setInterval
+-> prompt, alert, confirm
+-> work with events
+

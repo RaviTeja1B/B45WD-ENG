@@ -1,0 +1,12 @@
+-> CSS
+-> Ways of using CSS
+-> property and value
+-> class vs id
+-> use of important keyword
+-> display property
+
+css - cascading style sheet
+
+-> Inline css
+-> internal css
+-> external css

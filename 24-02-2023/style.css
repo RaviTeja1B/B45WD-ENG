@@ -1,0 +1,31 @@
+.card {
+  border: 2px solid black;
+  background-color: green;
+  color: white;
+}
+p {
+  font-weight: bold;
+  font-size: 24px;
+  color: brown;
+}
+
+.services1 {
+  font-size: 24px;
+  border: 2px solid red;
+  text-align: center;
+}
+
+.card .services1 {
+  color: red;
+  font-size: 24px;
+}
+/* 
+.card.applystyles .services1 {
+  color: orange;
+  font-size: 12px;
+} */
+
+/* 
+create a table and apply borders and for header apply backgroud color blue and text color white
+and for table body apply bg red and color white and text align to center
+*/
