@@ -1,0 +1,10 @@
+-> Promise
+-> promise states.
+-> promise chain
+-> promise.all()
+-> fetch & then
+
+* fulfilled
+* rejected
+* pending
+

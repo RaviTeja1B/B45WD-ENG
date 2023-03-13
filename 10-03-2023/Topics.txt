@@ -1,0 +1,5 @@
+-> async/await
+
+rules
+-> async/await have to use in a async function
+-> try/catch method to handle error 
