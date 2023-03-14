@@ -13,8 +13,7 @@
   <body>
     <div class="container">
       <form>
-        <input type="hidden" name="id" id="id" value="0" />
-
+        <input type="hidden" name="id" id="id" value="" />
         <div class="form-group">
           <label for="firstName">First Name</label>
           <input
@@ -51,7 +50,6 @@
             type="radio"
             name="gender"
             id="male"
-            checked
           />
           <label class="form-check-label" for="male">
             Male
@@ -75,7 +73,6 @@
             type="checkbox"
             value="nodejs"
             id="nodejs"
-            checked
           />
           <label class="form-check-label" for="nodejs">
             Node Js
@@ -91,7 +88,7 @@
           </select>
         </div>
         <button class="btn btn-success" onclick="createUser(event)">
-          Submit
+          Update
         </button>
       </form>
     </div>
