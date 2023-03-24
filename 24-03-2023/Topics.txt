@@ -1,0 +1,24 @@
+-> ES6 Features
+-> let, var, const
+-> arrow function
+-> Template literals
+-> spread and rest operators
+-> array and object destructure
+-> module import and export
+-> property shorthand
+
+ES6 Features
+* arrow function
+*let and const keywords
+* symbol, vectors
+* map, filter
+* for/of for/in
+* promises
+* object entries
+
+-> let and const
+
+let ob
+
+-> single page web application
+
